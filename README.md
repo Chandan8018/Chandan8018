@@ -19,6 +19,7 @@
 - **Databases:** SQL, MongoDB
 - **Libraries & Tools:** Framer Motion, Bootstrap, Flowbite, MUI, Aceternity UI, Git, Microsoft Teams, and Taiga
 - **Data Visualization:** D3.js, and Chart.js
+- **Testing:** chai, and mocha
 
 ---
 
