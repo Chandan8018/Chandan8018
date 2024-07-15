@@ -15,7 +15,6 @@
 
 ## 🚀 Skills
 
-### **Technical Skills:**
 - **Languages & Frameworks:** HTML5, CSS3, Tailwind CSS, JavaScript, TypeScript, React JS, Next JS, and Node JS
 - **Databases:** SQL, MongoDB
 - **Libraries & Tools:** Framer Motion, Bootstrap, Flowbite, MUI, Aceternity UI, Git, Microsoft Teams, and Taiga
